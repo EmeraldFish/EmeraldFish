@@ -7,3 +7,6 @@ anyways hope you enjoy mah code
 i am trying to make an adblock
 <br>
 cause ads are e
+<br>
+<br>
+and finally my profile picture has loaded
